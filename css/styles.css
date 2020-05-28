@@ -1,0 +1,30 @@
+
+    .enakorin {
+        border-radius: 50%;
+      }
+  
+      body {
+        background-color: #ffe2e2;
+      }
+  
+      hr {
+        
+        border-style:none;
+        border-top: dotted;
+        border-color: grey;
+        border-width: 5px;
+        height: 0;
+        width: 5%;
+      }
+
+      h1{
+          color: #8785a2;
+      }
+
+      h2{
+          color:#ffc7c7;
+      }
+
+      h3 {
+          color: #8785a2;
+      }
