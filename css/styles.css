@@ -5,6 +5,7 @@
   
       body {
         background-color: #ffe2e2;
+        ;
       }
   
       hr {
@@ -19,6 +20,7 @@
 
       h1{
           color: #8785a2;
+          font-family: 'dancing script';
       }
 
       h2{
