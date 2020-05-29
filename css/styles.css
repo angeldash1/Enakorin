@@ -1,40 +1,74 @@
 
-    .enakorin {
-        border-radius: 50%;
-      }
-  
-      body {
-        background-color: #ffe2e2;
-        position: relative;
-        ;
-      }
-  
-      hr {
-        
-        border-style:none;
-        border-top: dotted;
-        border-color: grey;
-        border-width: 5px;
-        height: 0;
-        width: 5%;
-      }
 
-      h1{
-          color: #8785a2;
-          font-family: 'dancing script';
-      }
-
-      h2{
-          color:#ffc7c7;
-      }
-
-      h3 {
-          color: #8785a2;
-      }
-
-      .hinamatsuri {
-        
-      }
-
+body {
+    margin: 0;
+    background-color: #f4eeff;
+    text-align: center;
     
     
+}
+
+
+.top-container {
+    position: relative;
+    padding: 100px;
+    background: #dcd6f7;
+}
+
+h1 {
+    
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 562.5%;
+    margin:50px auto 0 auto;
+
+ 
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+.enakorin {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+
+p {
+    padding: 20px;
+
+}
+
+.model {
+    text-decoration: underline;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.cloud-bot {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+
+.waifu {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+.cosplay {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+
+
+
