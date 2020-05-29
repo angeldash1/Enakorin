@@ -5,6 +5,7 @@
   
       body {
         background-color: #ffe2e2;
+        position: relative;
         ;
       }
   
@@ -30,3 +31,10 @@
       h3 {
           color: #8785a2;
       }
+
+      .hinamatsuri {
+        
+      }
+
+    
+    
